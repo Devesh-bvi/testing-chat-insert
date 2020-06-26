@@ -1,0 +1,11 @@
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\bin\Debug\netcoreapp2.2\testing API job.deps.json
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\bin\Debug\netcoreapp2.2\testing API job.runtimeconfig.json
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\bin\Debug\netcoreapp2.2\testing API job.runtimeconfig.dev.json
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\bin\Debug\netcoreapp2.2\testing API job.dll
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\obj\Debug\netcoreapp2.2\testing API job.csprojAssemblyReference.cache
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\obj\Debug\netcoreapp2.2\testing API job.csproj.CoreCompileInputs.cache
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\obj\Debug\netcoreapp2.2\testing API job.AssemblyInfoInputs.cache
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\obj\Debug\netcoreapp2.2\testing API job.AssemblyInfo.cs
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\bin\Debug\netcoreapp2.2\testing API job.pdb
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\obj\Debug\netcoreapp2.2\testing API job.dll
+C:\Users\devesh.padmashali\source\repos\Testingjob\testing API job\testing API job\obj\Debug\netcoreapp2.2\testing API job.pdb
